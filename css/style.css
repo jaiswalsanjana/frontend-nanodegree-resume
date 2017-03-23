@@ -165,7 +165,8 @@ ul {
 
 img {
   padding: 10px;
-}
+  width: 200px
+  }
 
 span {
   padding: 5px;
